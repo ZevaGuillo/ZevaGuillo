@@ -11,14 +11,13 @@
     <br>🔹 I'm interested in software, music and 3D Art.
     </samp>
   <br>
-  <br>
-  <br>
   <p align="center">
-    #html, #css, #javascript, #python
+    <samp>
+      #html, #css, #javascript, #python
+     </samp>
     <br>
-    <img src="https://github.com/ZevaGuillo/ZevaGuillo/blob/main/pa.gif?raw=true" align="center" width="25%"/>
+    <img src="https://github.com/ZevaGuillo/ZevaGuillo/blob/main/pa.gif?raw=true" align="center" width="15%"/>
   </p>
-
 </p>
 
 
