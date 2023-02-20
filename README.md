@@ -18,7 +18,7 @@
     <br>
   </p>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZevaGuillo&label=Profile%20views&color=0e75b6&style=flat" alt="ZevaGuillo" /> </p>
+<!--   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZevaGuillo&label=Profile%20views&color=0e75b6&style=flat" alt="ZevaGuillo" /> </p> -->
 </p>
 
 
