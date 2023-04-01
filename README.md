@@ -5,7 +5,7 @@
   <samp>
     <br>I am a web developer and software engineering student from Ecuador.
     <br>
-    <br>🔹 I’m currently learning NodeJs
+<!--     <br>🔹 I’m currently learning -->
     <br>🔹 Ask me about React
     <br>🔹 I'm interested in software, music and 3D Art.
     </samp>
@@ -13,7 +13,7 @@
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #react, #python
+      #html, #css, #javascript, #react, #nextjs, #typescript, #nodejs
      </samp>
     <br>
   </p>
