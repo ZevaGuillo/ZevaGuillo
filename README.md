@@ -13,7 +13,7 @@
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #react, #nextjs, #typescript, #nodejs
+      #tailwindcss, #javascript, #react, #nextjs, #typescript, #nodejs, #nestjs, #aws, #docker, #angular, #flutter
      </samp>
     <br>
   </p>
