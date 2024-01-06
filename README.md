@@ -5,7 +5,7 @@
   <samp>
     <br>I am a web developer and software engineering student from Ecuador.
     <br>
-<!--     <br>🔹 I’m currently learning -->
+    <br>🔹 I’m currently learning AWS
     <br>🔹 Ask me about React
     <br>🔹 I'm interested in software, music and 3D Art.
     </samp>
